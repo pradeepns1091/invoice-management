@@ -1,0 +1,8 @@
+spring.application.name: Invoice Management
+springdoc:
+  api:
+    title: Invoice Management
+    description: API for creating invoices, paying invoices, and processing overdue invoices.
+    version: 1.0.0
+
+
